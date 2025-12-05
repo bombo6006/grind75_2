@@ -9,3 +9,4 @@
 ### **125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)**
 ### **226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)**
 ### **242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)**
+### **704. [Binary Search](https://leetcode.com/problems/binary-search/description/)**
